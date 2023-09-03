@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// https://codeforces.com/problemset/problem/4/A
 func main() {
 	var w int
 
@@ -15,5 +16,3 @@ func main() {
 		fmt.Print("NO")
 	}
 }
-
-// https://codeforces.com/problemset/problem/4/A
